@@ -1,0 +1,11 @@
+c:\users\paulo bressan\source\repos\List\List\bin\Debug\netcoreapp2.0\List.deps.json
+c:\users\paulo bressan\source\repos\List\List\bin\Debug\netcoreapp2.0\List.runtimeconfig.json
+c:\users\paulo bressan\source\repos\List\List\bin\Debug\netcoreapp2.0\List.runtimeconfig.dev.json
+c:\users\paulo bressan\source\repos\List\List\bin\Debug\netcoreapp2.0\List.dll
+c:\users\paulo bressan\source\repos\List\List\bin\Debug\netcoreapp2.0\List.pdb
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.csprojResolveAssemblyReference.cache
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.csproj.CoreCompileInputs.cache
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.AssemblyInfoInputs.cache
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.AssemblyInfo.cs
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.dll
+c:\users\paulo bressan\source\repos\List\List\obj\Debug\netcoreapp2.0\List.pdb
